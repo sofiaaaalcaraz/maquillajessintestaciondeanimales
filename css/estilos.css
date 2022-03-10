@@ -3,7 +3,7 @@
 
 body {
  background-image: url("figuras/fondo.jpg");	
- background-color: #a5e4f2;
+ background-color: #efdcf2;
 }
 
 /*Creamos la clase 'center' de forma que podamos centrar, por ejemplo, las tablas de nuestras páginas*/
@@ -17,10 +17,10 @@ body {
 
 /*Le damos formato a los encabezados H1*/
 h1 {
-  font-weight: bold;
+  font-weight: Garamond;
   text-align: center;  
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color:#0a1df5;
+  color:#ccedf0;
   
 }
 
@@ -29,7 +29,7 @@ h2 {
   font-weight: bold;
   text-align: left;  
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: Tomato	;
+  color: green	;
 
 }
 
